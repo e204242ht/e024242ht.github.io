@@ -1,0 +1,29 @@
+h1{
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color: magenta;
+    
+    background-color: yellow;
+}
+
+h3{
+    background-color: white;
+}
+
+p{
+    background-color: white;
+}
+
+body{
+    background-image: url(../images/星.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    
+}
