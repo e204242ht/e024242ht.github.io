@@ -1,0 +1,21 @@
+/* bluecolorクラスのものだけ装飾 */
+.bluecolor{
+    color:blue;
+}
+/* h1タグの中でもHirahashiというidのやつだけを装飾 */
+h1#Hirahashi{
+    font-family: impact;
+    font-size: 60px;
+}
+
+h2{
+    color: red !important;
+}
+
+h2{
+    color: green;
+}
+
+h2:hover{
+    background-color: beige;
+}

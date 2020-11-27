@@ -1,0 +1,34 @@
+body{
+    background-image: url(../images/星.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    
+}
+/* bluecolorクラスのものだけ装飾 */
+.bluecolor{
+    color:white;
+    background-color:black;
+}
+
+/* h1タグの中でもHirahashiというidのやつだけを装飾 */
+h1#Hirahashi{
+    text-align: center;
+    background-color: aqua
+}
+
+h2#abc{
+    background-color: blueviolet;
+}
+
+h2#def{
+    background-color: rebeccapurple;
+}
+
+p{
+    color: white
+}
+
+p#ghi{
+    color: black;
+    background-color: white;
+}
